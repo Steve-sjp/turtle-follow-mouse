@@ -4,7 +4,6 @@ from pynput.mouse import Listener
 
 screen = turtle.Screen()
 
-
 def on_scroll(x, y, dx, dy):
     if dy > 0:
         print('pen up')
@@ -21,6 +20,7 @@ def fxn(x, y):
     pen.setheading(pen.towards(x, y))
     pen.goto(x, y)
     pen.write(str(x) + "," + str(y))
+    pen.title(pen.pos())
     print("x =", x, ",", "y =", y)
 
 
