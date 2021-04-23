@@ -11,6 +11,4 @@ Functions of my script:
   * playground
 * You can put mouse up and down using mouse wheel.
 ___
-![alt tag](https://prnt.sc/11xfegg "Example")
-___
 That's how you get good grades 😎
