@@ -11,4 +11,6 @@ Functions of my script:
   * playground
 * You can put mouse up and down using mouse wheel.
 ___
+[logo]: src/media/example%20(thats%20suppose%20to%20be%20a%20smile%20face).png "Текст заголовка логотипа 2"
+___
 That's how you get good grades 😎
